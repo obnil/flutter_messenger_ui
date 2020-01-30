@@ -4,10 +4,9 @@ A new Flutter project.
 
 Design:https://dribbble.com/shots/6428387-Messenger-Mobile-Concept
 
-<figure class="half">
-<img src="./screenshots/destination_screen.jpg" alt="destination_screen" style="zoom:25%;" />
-<img src="./screenshots/home_screen.jpg" alt="home_screen" style="zoom:25%;" />
-</figure>
+| HomeScreen                                   | ChatScreen                                          |
+| -------------------------------------------- | --------------------------------------------------- |
+| ![Screenshot](./screenshots/home_screen.jpg) | ![Screenshot](./screenshots/destination_screen.jpg) |
 
 
 ## Getting Started
